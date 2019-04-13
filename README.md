@@ -1,2 +1,0 @@
-# virtualisedList
-Created with CodeSandbox
